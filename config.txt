@@ -1,0 +1,9 @@
+1 - Criar e ativar o ambiente virtual 
+https://docs.python.org/pt-br/3/tutorial/venv.html
+
+2- Instalar as dependências do projeto: pip install -r requirements.txt
+
+3 - export FLASK_APP=hello.py
+
+4 - flask run
+
